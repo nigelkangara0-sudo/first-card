@@ -1,0 +1,25 @@
+.sunimage{
+    border-radius: 10px;
+    width: 200px;
+    margin: auto auto;
+
+/*MY First main card*//*comments section*/
+}
+.maincard{
+    border-radius: 10px;
+    width: 400px;
+    padding: 20px;
+    padding-left: 5px;
+    background-color: antiquewhite;
+    border-bottom: 5px solid #f820ff;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.texted{
+    color: #4d437a;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.texted:hover{
+    color: #f820ff;
+}
